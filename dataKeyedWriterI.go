@@ -1,10 +1,10 @@
 package overlay
 
-// xlattice_go/overlay/dataKeyedWriter.go
+// xlOverlay_go/dataKeyedWriter.go
 
 import (
-	xc "github.com/jddixon/xlattice_go/crypto"
-	xi "github.com/jddixon/xlattice_go/nodeID"
+	xc "github.com/jddixon/xlCrypto_go"
+	xi "github.com/jddixon/xlNodeID_go"
 )
 
 type DataKeyedWriterI interface {

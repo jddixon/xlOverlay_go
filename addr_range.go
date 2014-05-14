@@ -1,9 +1,8 @@
 package overlay
 
-// xlattice_go/overlay/addr_range.go
+// xlOverlay_go/addr_range.go
 
 import (
-	// "encoding/hex"
 	"errors"
 	"fmt"
 	"net"

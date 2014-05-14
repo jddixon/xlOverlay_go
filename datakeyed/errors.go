@@ -1,6 +1,6 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/keyQueue.go
+// xlOverlay_go/datakeyed/keyQueue.go
 
 import (
 	e "errors"

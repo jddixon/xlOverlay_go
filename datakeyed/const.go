@@ -1,6 +1,6 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/const.go
+// xlOverlay_go/datakeyed/const.go
 
 const (
 

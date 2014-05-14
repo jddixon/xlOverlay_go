@@ -1,9 +1,9 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/cbQueue.go
+// xlOverlay_go/datakeyed/cbQueue.go
 
 import (
-	xi "github.com/jddixon/xlattice_go/nodeID"
+	xi "github.com/jddixon/xlNodeID_go"
 	"sync"
 )
 

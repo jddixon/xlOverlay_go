@@ -1,6 +1,6 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/gocheck.go
+// xlOverlay_go/datakeyed/gocheck.go
 
 import (
 	. "gopkg.in/check.v1"

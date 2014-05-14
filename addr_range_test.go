@@ -1,15 +1,15 @@
 package overlay
 
-// xlattice_go/addr_range/addr_range_test.go
+// xlOverlay_go/range/addr_range_test.go
 
 import (
-	"github.com/jddixon/xlattice_go/rnglib"
+	xr "github.com/jddixon/rnglib_go"
 	. "gopkg.in/check.v1"
 	"net"
 )
 
 func (s *XLSuite) TestAddrRangeCtor(c *C) {
-	rng := rnglib.MakeSimpleRNG()
+	rng := xr.MakeSimpleRNG()
 
 	// v4 address ---------------------------------------------------
 	v4PLen := uint(1 + rng.Intn(32)) // in bits

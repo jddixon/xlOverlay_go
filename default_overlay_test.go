@@ -1,10 +1,10 @@
 package overlay
 
-// xlattice_go/overlay/default_overlay_test.go
+// xlOverlay_go/default_overlay_test.go
 
 import (
-	"github.com/jddixon/xlattice_go/rnglib"
-	xt "github.com/jddixon/xlattice_go/transport"
+	xr "github.com/jddixon/rnglib_go"
+	xt "github.com/jddixon/xlTransport_go"
 	. "gopkg.in/check.v1"
 )
 
@@ -21,7 +21,7 @@ func (s *XLSuite) shouldGetDefault(c *C, addr string) OverlayI {
 	return o
 }
 func (s *XLSuite) TestDefaultOverlay(c *C) {
-	rng := rnglib.MakeSimpleRNG()
+	rng := xr.MakeSimpleRNG()
 	_ = rng
 
 	o := s.shouldGetDefault(c, "127.0.0.1:27")

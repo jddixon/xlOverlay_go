@@ -1,10 +1,10 @@
 package overlay
 
-// xlattice_go/overlay/ip_overlay.go
+// xlOverlay_go/ip_overlay.go
 
 import (
 	"fmt"
-	xt "github.com/jddixon/xlattice_go/transport"
+	xt "github.com/jddixon/xlTransport_go"
 	"net"
 	"strings"
 )

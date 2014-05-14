@@ -1,12 +1,12 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/memCache_test.go
+// xlOverlay_go/datakeyed/memCache_test.go
 
 import (
 	"crypto/sha1"
 	"fmt"
-	xi "github.com/jddixon/xlattice_go/nodeID"
-	xr "github.com/jddixon/xlattice_go/rnglib"
+	xr "github.com/jddixon/rnglib_go"
+	xi "github.com/jddixon/xlNodeID_go"
 	. "gopkg.in/check.v1"
 )
 

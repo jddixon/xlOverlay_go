@@ -1,9 +1,9 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/diskCacheI.go
+// xlOverlay_go/datakeyed/diskCacheI.go
 
 import (
-	xi "github.com/jddixon/xlattice_go/nodeID"
+	xi "github.com/jddixon/xlNodeID_go"
 )
 
 type DiskCacheI interface {

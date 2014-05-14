@@ -1,10 +1,10 @@
 package overlay
 
-// xlattice_go/overlay/parser_test.go
+// xlOverlay_go/parser_test.go
 
 import (
 	"fmt"
-	"github.com/jddixon/xlattice_go/rnglib"
+	xr "github.com/jddixon/rnglib_go"
 	. "gopkg.in/check.v1"
 	"regexp"
 	"strings"
@@ -12,7 +12,7 @@ import (
 
 var _ = fmt.Print
 
-func (s *XLSuite) getAName(rng *rnglib.PRNG) (name string) {
+func (s *XLSuite) getAName(rng *xr.PRNG) (name string) {
 	name = string(rng.NextFileName(8))
 	for {
 		first := string(name[0])
@@ -25,12 +25,12 @@ func (s *XLSuite) getAName(rng *rnglib.PRNG) (name string) {
 }
 func (s *XLSuite) TestParser(c *C) {
 	// fmt.Println("TEST_PARSER")
-	rng := rnglib.MakeSimpleRNG()
+	rng := xr.MakeSimpleRNG()
 	for i := 0; i < 16; i++ {
 		s.doTestParser(c, rng)
 	}
 }
-func (s *XLSuite) doTestParser(c *C, rng *rnglib.PRNG) {
+func (s *XLSuite) doTestParser(c *C, rng *xr.PRNG) {
 
 	name := s.getAName(rng)
 	a := rng.Intn(256)

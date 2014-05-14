@@ -1,6 +1,6 @@
 package overlay
 
-// xlattice_go/overlay/nameKeyedWriterI.go
+// xlOverlay_go/nameKeyedWriterI.go
 
 // This call is synchronous: it blocks.
 type NameKeyedWriterI interface {

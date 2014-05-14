@@ -1,6 +1,6 @@
 package overlay
 
-// xlattice_go/overlay/dataKeyedI.go
+// xlOverlay_go/dataKeyedI.go
 
 type DataKeyedI interface {
 	DataKeyedReaderI

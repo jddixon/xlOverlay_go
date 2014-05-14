@@ -3,7 +3,7 @@ package overlay
 import (
 	"errors"
 	"fmt"
-	xt "github.com/jddixon/xlattice_go/transport"
+	xt "github.com/jddixon/xlTransport_go"
 )
 
 var _ = fmt.Print

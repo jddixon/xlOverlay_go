@@ -1,4 +1,4 @@
-xlattice_go/overlay/TODO
+xlOverlay_go/TODO
 
 2014-02-05
     * must review all code, drop any use of callbacks

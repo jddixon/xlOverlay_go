@@ -3,11 +3,10 @@ package overlay
 import (
 	"errors"
 	"fmt"
+	xt "github.com/jddixon/xlTransport_go"
+	xu "github.com/jddixon/xlUtil_go"
 	"regexp"
 	"strconv"
-	//"strings"
-	xt "github.com/jddixon/xlattice_go/transport"
-	xu "github.com/jddixon/xlattice_go/util"
 )
 
 var _ = fmt.Print

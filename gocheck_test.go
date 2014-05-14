@@ -1,6 +1,6 @@
 package overlay
 
-// xlattice_go/overlay/gocheck.go
+// xlOverlay_go/gocheck.go
 
 import (
 	. "gopkg.in/check.v1"

@@ -1,9 +1,9 @@
 package overlay
 
-// xlattice_go/overlayI.go
+// xlOverlay_goI.go
 
 import (
-	xt "github.com/jddixon/xlattice_go/transport"
+	xt "github.com/jddixon/xlTransport_go"
 )
 
 /**

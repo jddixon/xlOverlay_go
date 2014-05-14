@@ -1,10 +1,10 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/memCacheI.go
+// xlOverlay_go/datakeyed/memCacheI.go
 
 import (
-	xi "github.com/jddixon/xlattice_go/nodeID"
-	xo "github.com/jddixon/xlattice_go/overlay"
+	xi "github.com/jddixon/xlNodeID_go"
+	xo "github.com/jddixon/xlOverlay_go"
 )
 
 type MemCacheI interface {

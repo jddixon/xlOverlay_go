@@ -1,9 +1,9 @@
 package overlay
 
-// xlattice_go/overlay/dataKeyedReader.go
+// xlOverlay_go/dataKeyedReader.go
 
 import (
-	xi "github.com/jddixon/xlattice_go/nodeID"
+	xi "github.com/jddixon/xlNodeID_go"
 )
 
 type DataKeyedReaderI interface {

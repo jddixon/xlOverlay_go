@@ -1,10 +1,8 @@
 package overlay
 
-// xlattice_go/ip_overlayI.go
+// xlOverlay_go/ip_overlayI.go
 
-import (
-// x "github.com/jddixon/xlattice_go"
-)
+import ()
 
 /**
  * An IPOverlay is characterized by an address space, a transport protocol,

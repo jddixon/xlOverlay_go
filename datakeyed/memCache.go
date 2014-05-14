@@ -1,12 +1,10 @@
 package datakeyed
 
-// xlattice_go/overlay/datakeyed/memCache.go
+// xlOverlay_go/datakeyed/memCache.go
 
 import (
-	xi "github.com/jddixon/xlattice_go/nodeID"
-	// xo "github.com/jddixon/xlattice_go/overlay"
+	xi "github.com/jddixon/xlNodeID_go"
 	"sync"
-	// "time"
 )
 
 type MemCache struct {

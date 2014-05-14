@@ -1,4 +1,4 @@
-xlattice_go/overlay/datakeyed
+xlOverlay_go/datakeyed
 
 2014-02-10
     * rename MemCache.Add() to Insert()
