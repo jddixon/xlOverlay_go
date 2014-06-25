@@ -1,8 +1,10 @@
-junk*
-*.swp
-.merkle
-*.log
+.committed
 *.java
 *.jar
-*ZZZ
+junk*
+*.log
+.merkle
+.posted
+*.swp
 tmp
+*ZZZ
