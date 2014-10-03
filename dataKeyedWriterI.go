@@ -3,7 +3,8 @@ package overlay
 // xlOverlay_go/dataKeyedWriter.go
 
 import (
-	xc "github.com/jddixon/xlCrypto_go"
+	xb "github.com/jddixon/xlCrypto_go/builds"
+	//xc "github.com/jddixon/xlCrypto_go"
 	xi "github.com/jddixon/xlNodeID_go"
 )
 
@@ -42,5 +43,5 @@ type DataKeyedWriterI interface {
 	 * @param lst    the SignedList being stored
 	 * @return       whether the list was written to store
 	 */
-	PutSigned(nodeID *xi.NodeID, lst xc.SignedListI) error
+	PutSigned(nodeID *xi.NodeID, lst xb.SignedBList) error
 }
