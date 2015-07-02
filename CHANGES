@@ -1,5 +1,8 @@
 xlOverlay_go/CHANGES
 
+v0.5.2
+    2015-07-02
+        * update .gitignore                                         SLOC  860
 v0.5.1
     2014-10-03
         * modified dataKeyedWriteI.go interface declaration         SLOC  860 
