@@ -1,5 +1,8 @@
 xlOverlay_go/CHANGES
 
+v0.5.3
+    2015-09-29
+        * significantly improved docs                               SLOC  860
 v0.5.2
     2015-07-02
         * update .gitignore                                         SLOC  860
