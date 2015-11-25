@@ -1,6 +1,6 @@
 # xlOverlay_go
 
-The Go language Overlay functions for 
+The Go language Overlay functions for
 [XLattice.](https://jddixon.github.io/xlattice_go)
 
 An Overlay is characterized by an address space, a transport protocol,
@@ -30,10 +30,10 @@ EndPoint `x`.
 
 ## Gateways
 
-A Gateway is an 
+A Gateway is an
 [XLattice Node](https://jddixon.github.io/xlNode_go)
 which can be used for routing traffic between Overlays.  The Gateway
-can simply forward message with headers added or altered as necessary 
+can simply forward message with headers added or altered as necessary
 to route traffic, or the message content may be altered as necessitated
 for example by protocol switching or encryption.
 
@@ -42,5 +42,6 @@ for example by protocol switching or encryption.
 Minimal implementation.  Functions are largely stubbed.
 
 ## On-line Documentation
-More information on the **xlOverlay_go** project can be found 
-[here](https://jddixon.github.io/xlOverlay_go)
+
+More information on the **xlOverlay_go** project can be found
+[here](://jddixon.github.io/xlOverlay_go)
