@@ -1,5 +1,8 @@
 xlOverlay_go/CHANGES
 
+v0.5.4
+    2015-11-25
+        * minor edits to *.md                                       SLOC  860
 v0.5.3
     2015-09-29
         * significantly improved docs                               SLOC  860
@@ -12,3 +15,4 @@ v0.5.1
 v0.5.0
     2014-05-14
         * split from xlattice_go/overlay                            SLOC  855
+
