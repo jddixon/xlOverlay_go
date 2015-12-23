@@ -44,4 +44,4 @@ Minimal implementation.  Functions are largely stubbed.
 ## On-line Documentation
 
 More information on the **xlOverlay_go** project can be found
-[here](://jddixon.github.io/xlOverlay_go)
+[here](https://jddixon.github.io/xlOverlay_go)
