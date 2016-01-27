@@ -1,17 +1,17 @@
 package overlay
 
-// xlOverlay_go/gocheck.go
+// xlOverlay_go/test framework.go
 
 import (
 	. "gopkg.in/check.v1"
 	"testing"
 )
 
-// gocheck tie-in /////////////////////
+// test framework tie-in /////////////////////
 func Test(t *testing.T) { TestingT(t) }
 
 type XLSuite struct{}
 
 var _ = Suite(&XLSuite{})
 
-// end gocheck setup //////////////////
+// end test framework setup //////////////////
