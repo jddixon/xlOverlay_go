@@ -1,5 +1,11 @@
 xlOverlay_go/CHANGES
 
+v0.5.7
+    2016-02-27
+        * update LICENSE                                            SLOC  865
+v0.5.6
+    2016-01-26
+        * minor cosmetic edits                                      SLOC  865
 v0.5.5
     2015-12-23
         * fix dead link
@@ -18,5 +24,7 @@ v0.5.1
 v0.5.0
     2014-05-14
         * split from xlattice_go/overlay                            SLOC  855
+
+
 
 

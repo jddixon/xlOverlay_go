@@ -1,6 +1,6 @@
 package overlay
 
 const (
-	VERSION      = "0.5.5"
-	VERSION_DATE = "2015-12-23"
+	VERSION      = "0.5.7"
+	VERSION_DATE = "2016-02-27"
 )
