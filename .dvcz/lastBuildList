@@ -7,16 +7,18 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlOverlay_go v0.5.8
-2016-06-06 03:15:57
+xlOverlay_go v0.5.9
+2016-07-04 19:28:40
 # START CONTENT #
 xlOverlay_go
  .copyright 803f3e50518123ef8a08d34f2238e89b62d0c9a2
  .dvcz
-  projCfg 5c37c170209dded17fe29d50f99e78b9bade97da
-  version f18f2a176b261ffd587f44af79d85fc49baf7b46
- .gitignore 88549a39e8e421b4ac75aee4ada67ed12a14b4c4
- CHANGES 4359429a5b05deefa0fd326ae23492023aaf021f
+  builds b8f5c4755a3b2a3eb9cb5deecfbd2918888202b3
+  lastBuildList 60e65b193ff3d2a25d30c4cd595b2b2a744bfbc2
+  projCfg 1b26e98af47a15a3202784457005c373f0370b47
+  version 65caff828bbca81881bf31646b9edea6034d5e5f
+ .gitignore ec0f9002629753cd248c6a672ef3de695c30f4b7
+ CHANGES 7e8cfb90ee1cdf43ebb1976ed2b89c5d96386d88
  LICENSE.md d1cecfadc47b23486f6bc8a863cfdde348c3eb46
  README.md 6ea0f1bb64e1d05e934e7c3cf9f09c642448bf85
  TODO eb0803e105f6f5fff082c2590f1cf4a3da5cf3bf
@@ -41,6 +43,19 @@ xlOverlay_go
  default_overlay.go fc5ebdd47d8b3ef593f684ebd14c8df934dee0d5
  default_overlay_test.go b8ab710c6e4606e92ca168a5c38ee12b1203b81d
  ghpDoc
+  css
+   LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
+   ghp.css 1d6ebe8a6cf8f61f4645a793cb087dfae2420f33
+   main.css 018ed80b8a6e6607bc7c08595fa5a7fa56853885
+   normalize.css cba40c7ce3d558d00ff79d7505ac3d348015ec9c
+  img
+   GitHub-Mark-32px.png fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8
+   chunk.jpg de2b27e41f1547fc14b13399f5906b4303b49657
+   chunk2.jpg d0593d312dbb8ea837c17b28cb639726e29ea93b
+   cluster-with-clients.jpg c167d04c0c6b5736ef9fe4cdc3fcce1956fdea78
+   simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
+   xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
+   xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
   index.md bcb1ad9beb20474f8fc9ab11ba1db2547644188f
  gocheck_test.go 4d892286425d77482a8133681cfbfc22e57c20f4
  installit 262d4712c45e93d3d93ce2d9213a5c9436a7da34
@@ -55,7 +70,7 @@ xlOverlay_go
  parser_test.go 1fccbe0134a7543f8b26efcb0a9835463a642e91
  styleit 82e9fcf55dd4d6aa79a7650001dbe9f3716d07d7
  test.all d27700ab5969f5ac47c665cb28d91327f5424574
- version.go 1ada73371f1dfcd28a85bb38f928913b5860e50c
+ version.go 6b5850d442b9c7d3150a3a5d14bc49588cdbe1bf
 # END CONTENT #
 
-RkbBisGn4QVRpx1ITiq2Au9uGDvtCDGU0n6kxRopJy02+uydbonpqeP5tieVxLiwf2WsaLwTctv1wudOuL7EB/uXzGqY67BMoV33z2o7u2yGxpGTwJAirNqT/S087IykWatHC10DLenH0IT4MBZtzGOwvFkEBy1X3vDBBQjYI4n3OwiUtEVD26yyqwwVWwFtwehhDhoilBG5xvSBjPJUj9fAPuXbJNThTM52jJo0vB8A4c+pw9Ft+ytRdsGyLFAfYBcqbF1ckMlBW35VOwKz2zjBMDmDN+qObb3FvMMsCBl7U8CCpLLKy7hUc0TI1UBpW644s2gL+jpU9vlYU2ElXg==
+LK+IzViXU2PnM+9HGLrkv7KqYfmIG00RvqFVu67EbllbTwpJWNUdkzDjSeMbB1D6FIlK+LBx0ihiSUkWF9tBfXtex5lzadpSRk1oPbSNQvA1Yjhp+vdVH1DJa2bQCcYcy3XlXn6t8x958bN8kEB4Luoxv2t/hqDI5/07/y5xiy+x4SoG9ipSUvlo4sgEk1uornPoebiCmCmRNauiFV0uodf01xblj1J5k/Il9ecvri+QRhnCJO4hI2ohpEP4mLcfURWfmWhFeI22nl5Kf3Emq2DvfNznf3mv8Ppy6Lj4v/dUNIA6eN5Gc7wjiX1YzBTjdJm5C5Bu6Jjv5RWK5rHDPw==
