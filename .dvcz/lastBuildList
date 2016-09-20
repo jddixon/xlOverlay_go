@@ -7,26 +7,28 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlOverlay_go v0.5.9
-2016-07-04 19:28:40
-# START CONTENT #
+xlOverlay_go v0.5.10
+2016-09-20 19:27:38
+# BEGIN CONTENT #
 xlOverlay_go
- .copyright 803f3e50518123ef8a08d34f2238e89b62d0c9a2
  .dvcz
-  builds b8f5c4755a3b2a3eb9cb5deecfbd2918888202b3
-  lastBuildList 60e65b193ff3d2a25d30c4cd595b2b2a744bfbc2
-  projCfg 1b26e98af47a15a3202784457005c373f0370b47
-  version 65caff828bbca81881bf31646b9edea6034d5e5f
+  builds 5c9469c45c978e1a2582655b6d70135b8c0caece
+  copyright 803f3e50518123ef8a08d34f2238e89b62d0c9a2
+  lastBuildList b4ed37f29fc65786ef97548dbd1a2acb296aed86
+  license 5977a55c75bb4612004451a56b0b4c22d9d3311d
+  projCfg fe85092304413b6375a94e0be40ca481534f2f17
+  projCfg.local d920c5e0ac0de70ef865d2279c3343a7b7990b00
+  version 595b5ef03ce0b0b342eaccb6f7ed317e176b55fb
  .gitignore ec0f9002629753cd248c6a672ef3de695c30f4b7
- CHANGES 7e8cfb90ee1cdf43ebb1976ed2b89c5d96386d88
- LICENSE.md d1cecfadc47b23486f6bc8a863cfdde348c3eb46
+ CHANGES a952fa0b7325f35af9ad84a7dcc1334717de0cc0
+ LICENSE-MIT.md d1cecfadc47b23486f6bc8a863cfdde348c3eb46
  README.md 6ea0f1bb64e1d05e934e7c3cf9f09c642448bf85
  TODO eb0803e105f6f5fff082c2590f1cf4a3da5cf3bf
  addr_range.go 6957b42cc0971a47324954aa49fe0a3760ea9bf2
  addr_range_test.go a0db20a45c50523e34e353e2a14139cb3fae0b8f
  base_overlay.go 405a1306b4ac6e328f31ac2f742cb679376f4428
  bkp2U ffc785a5c24ea755418b2e3b566ebd9f26bad9a3
- countem a2bef59825031915a44210ce4b9fadbcdc1974b9
+ countem d440f54f3d327c825c2c2117bcb5157e3c9df715
  dataKeyedI.go a08ed6eba0529ee4822cc23fc6df1df3526a1206
  dataKeyedReaderI.go 7750f96e410a16fa1e64a1ff76ced556e8782b92
  dataKeyedWriterI.go 82eb81096d868f5ee69ed7379857722252e2831e
@@ -70,7 +72,7 @@ xlOverlay_go
  parser_test.go 1fccbe0134a7543f8b26efcb0a9835463a642e91
  styleit 82e9fcf55dd4d6aa79a7650001dbe9f3716d07d7
  test.all d27700ab5969f5ac47c665cb28d91327f5424574
- version.go 6b5850d442b9c7d3150a3a5d14bc49588cdbe1bf
+ version.go de186404b05b13608b1e01ed1331682c12129609
 # END CONTENT #
 
-LK+IzViXU2PnM+9HGLrkv7KqYfmIG00RvqFVu67EbllbTwpJWNUdkzDjSeMbB1D6FIlK+LBx0ihiSUkWF9tBfXtex5lzadpSRk1oPbSNQvA1Yjhp+vdVH1DJa2bQCcYcy3XlXn6t8x958bN8kEB4Luoxv2t/hqDI5/07/y5xiy+x4SoG9ipSUvlo4sgEk1uornPoebiCmCmRNauiFV0uodf01xblj1J5k/Il9ecvri+QRhnCJO4hI2ohpEP4mLcfURWfmWhFeI22nl5Kf3Emq2DvfNznf3mv8Ppy6Lj4v/dUNIA6eN5Gc7wjiX1YzBTjdJm5C5Bu6Jjv5RWK5rHDPw==
+lp5Msdt+xMb4eAWlKKdixP4bpqlMAAy7C2atzwrMv5hQOL7AYq8BCrLNkANPNdj1Jpydj4dv11P74JXnuaMYxb/znPzG2JFTEpaOgjy/1w3qU1HhIc2P1EsSJCOAFfdH8wQM7JZfZ+DiVK6xtTXee7fHA5k4pdOf0pQG9tpgW2RQ2FW5ELxiJ14CjwfOK9tuNEEpaEtUiOjX1uCXys+al1vzKvdjpGsUsXtT9Xj6oYsNl0KskxDURyMkmstX9WxDOXG/l3pSrQkY66OpOCbRnsY6EVTFkncLSmk+zxNDxFMaxdAjAzbQ/RbgpZYwZwndxAz+Dlrxem1oEQFxUZTO3A==
