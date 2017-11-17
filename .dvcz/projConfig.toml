@@ -1,0 +1,23 @@
+# projConfig.toml for xlOverlay_go
+
+[meta]
+    version = '0.1.0'
+
+[project]
+    name = 'xlOverlay_go'  # distro name
+    package = 'xlOverlay_go'  # internal name
+    proj_dir = '/home/jdd/dev/go/src/github.com/jddixon/xlOverlay_go'
+    main_lang = 'go'
+    version = '0.5.12'
+    version_date = '2017-11-16'
+    author = 'Jim Dixon'
+    author_email = 'jddixon@gmail.com'
+    copyright = '2014-2017'
+    description = 'XLattice Overlay abstraction for Go'
+    dev_status = 'pre_alpha'
+    license = 'mit'
+    state = 'shared'
+    url = 'https://jddixon.github.io/xlOverlay_go'
+
+[go]
+    cmds=[]
