@@ -1,5 +1,8 @@
 xlOverlay_go/CHANGES
 
+v0.5.12
+    2017-11-16
+        * correct directory structure, config files                 SLOC 
 v0.5.11
     2017-10-18
         * add projConfig.toml                                       SLOC 1514
@@ -36,6 +39,7 @@ v0.5.1
 v0.5.0
     2014-05-14
         * split from xlattice_go/overlay                            SLOC  855
+
 
 
 
